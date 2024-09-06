@@ -48,19 +48,6 @@ More queries are included for deeper analysis, such as identifying top customers
 
 A Jupyter notebook is provided for data preparation, which includes cleaning, preprocessing, and transforming the dataset for SQL analysis. The notebook ensures the data is in a structured format for SQL queries and further analysis.
 
-## How to Use
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/retail-orders-analysis.git
-   ```
-2. Install required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook for data preparation.
-4. Use the SQL queries in your preferred SQL environment to perform the analysis.
-
 ## Insights and Recommendations
 
 Based on the analysis, actionable insights have been derived to improve the e-commerce business:
